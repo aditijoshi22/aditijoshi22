@@ -1,11 +1,6 @@
-##                                                     Hi , I'm Aditi Joshi
-                                          💻 Computer Engineering Student @ VIT Pune
-
-🚀 Passionate about
-• Full Stack Development
-• Artificial Intelligence
-• Machine Learning
-• Open Source
+<p align="center">
+  <img src="banner.png.png" alt="GitHub Banner" width="100%">
+</p>
 <!--
 **aditijoshi22/aditijoshi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
