@@ -1,5 +1,5 @@
-## Hi , I'm Aditi Joshi
-💻 Computer Engineering Student @ VIT Pune
+##                                                     Hi , I'm Aditi Joshi
+                                          💻 Computer Engineering Student @ VIT Pune
 
 🚀 Passionate about
 • Full Stack Development
